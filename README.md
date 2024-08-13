@@ -30,5 +30,6 @@ The Nine Stars Project is a comprehensive and visually appealing Landing-page bu
 The Landing-page is designed to be a single-page experience, with smooth scrolling between the different sections. Users can navigate through the various features using the navigation menu at the top of the page.
 
 
-https://github.com/user-attachments/assets/1eeb9f97-0ed0-4036-84d8-bcbbdf8cfc7e
+https://github.com/user-attachments/assets/04c024e8-d68d-4135-96ef-91b3cb5178ab
+
 
